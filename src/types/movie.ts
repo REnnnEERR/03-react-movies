@@ -8,9 +8,9 @@ export interface Movie {
   vote_average: number;
 }
 
-export interface FetchMoviesResponse {
-  results: Movie[];
-  total_pages: number;
-  total_results: number;
-  page: number;
-}
+// export interface FetchMoviesResponse {
+//   results: Movie[];
+//   total_pages: number;
+//   total_results: number;
+//   page: number;
+// }
